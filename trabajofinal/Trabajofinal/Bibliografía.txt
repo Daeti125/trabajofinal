@@ -1,0 +1,1 @@
+He tenido un problema con Jabref, con una actualización de Java ha dejado de funcionar, he puesto la bibliografía sin el archivo bibtex y sólo con un url.
